@@ -20,7 +20,7 @@ Maintaining clean and organized code is paramount for readability, collaboration
 
 - Ensure you have Notepad++ installed on your system.
 - Download and install the PythonScript plugin for Notepad++ if you haven't already.
-- Copy the source of the script from the Github link and paste it in a new *.py file called "code.beautifier".
+- Copy the code inside the code.beautifier.py file and paste code into a new *.py file called "code.beautifier".
 - Place the script file in the appropriate folder in your Notepad++ installation directory.
 **"plugins\Config\PythonScript\scripts"**
 
